@@ -1,0 +1,2 @@
+# FDprofilecardcomponent
+responsive
